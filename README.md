@@ -19,13 +19,13 @@
 
 | C | C++ | Python |
 |-----------|-----------|-----------|-----------|-----------|-----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> |<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> </p>| |
 
 <h3 align="left">⭐ Tools ⚙️ </h3>
 
-| Figma | Git | GitHub |
+| Git | GitHub |
 |-----------|-----------|-----------|
-|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Android" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | 
+| <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | 
 
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
