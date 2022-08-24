@@ -1,13 +1,13 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Amit Maity</h1>
-<h3 align="center">Date with programming , from India</h3>
+<h3 align="center">Its Aman Yadav</h3>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=maityamit&color=0e75b6)
+![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 
-- 🔭 I’m currently learning JetPack Compose (Kotlin) 
-- 🤔 I’m looking for help with in Native and Hybrid App Development
-- 💬 Ask me about anything
-- 📫 How to reach me: maityamit308@gmail.com
-- ⚡ Fun fact: Tell Tommorow 
+🌱 I’m currently learning Data Strucures and Algorithms in C++
+💬 Ask me about Cyber Security, Networking, Data Structures and Content Creation
+📫 How to reach me itsamanyadav18@gmail.com
+📄 Know about my experiences https://www.linkedin.com/in/itsamanyadav18/
+⚡ Favourite Anime Naruto 🐱‍👤
 
 <br>
 <h2 align="center">Experience 💻 </h2>
@@ -47,31 +47,31 @@
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
 
-| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://linkedin.com/in/maityamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/maityamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/13825516/amit-maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/amit_maity_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/AmitMai40525308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/maity.amit.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
+| Linkedin | GitHub | Stackoverflow | Instagram | Twitter 
+|-----------|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/itsamanyadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Yadav" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/its-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/13825516/mr-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/its_aman_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/its-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center">/p> |
    
      
 # Productivity Stats📈:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maityamit&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-aman-yadav&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
 
 
 ## 📊 GitHub Activity
-| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maityamit&theme=radical)                                                                                                           |
+| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=radical) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maityamit&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
 ## 📚 My Education Status
 
 
-<h4>⌚ B.Tech (CSE) at GL Bajaj Instituite of Technology and Management ('25) </h4>
-<h4>🏆 Top 1% Students in 10th & 12th Boards (WB) </h4>
-<h4>⌛ Class 10th & 12th from Bhimeswari Uchcha Sikshayatan (HS) [2K21 Passout]</h4>
+<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
+<h4>⌛ DSR Modern School, Noida</h4>
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
