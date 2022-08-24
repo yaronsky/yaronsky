@@ -1,12 +1,16 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Amit Maity</h1>
-<h3 align="center">Its Aman Yadav</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I am Aman Yadav</h1>
+<h3 align="center">Coder</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 
 🌱 I’m currently learning Data Strucures and Algorithms in C++
+
 💬 Ask me about Cyber Security, Networking, Data Structures and Content Creation
+
 📫 How to reach me itsamanyadav18@gmail.com
+
 📄 Know about my experiences https://www.linkedin.com/in/itsamanyadav18/
+
 ⚡ Favourite Anime Naruto 🐱‍👤
 
 <br>
@@ -14,8 +18,8 @@
 
 | | | <h3>Organization</h3> | <h3>TechStack</h3> | <h3>Project</h3> | <h3>TimeLine</h3> |  |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Project Mentor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rait.jpg" alt="Rait" width="30" height="30"/> | [Hack Club RAIT](https://soc.hackclubrait.co/) | ```Android``` ```Java``` <br> ```Firebase``` | [Sleepometer](https://github.com/maityamit/Sleepometer-Android-App) | Jul 22 - Present | |
-| Contributor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/gssoc.jpg" alt="Rait" width="30" height="30"/> | [GirlScript Summer of Code](https://gssoc.girlscript.tech) | ```Android``` ```Java``` <br> ```Firebase``` ```YAML``` | [9 Pr's Merged](https://github.com/maityamit/maityamit/tree/main/Open%20Source/2022/GSSoC) | Mar 22 - May 22| [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/gssoc'22_cert.png) |
+| Top Performer | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rait.jpg" alt="Rait" width="30" height="30"/> | [Coding Ninjas] | ```C++``` | [Excellence Certificate ](https://github.com/maityamit/Sleepometer-Android-App) | Aug 22 | |
+| Clear Qualification Round | [Google Codejam] | ```Android``` ```Java``` <br> ```Firebase``` ```YAML``` | [9 Pr's Merged](https://github.com/maityamit/maityamit/tree/main/Open%20Source/2022/GSSoC) | Mar 22 - May 22| [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/gssoc'22_cert.png) |
 | Project Mentor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/jwoc.jpg" alt="Rait" width="30" height="30"/>  | [JGEC Winter of Code](https://jwoc.tech/) | ```Android``` ```Java``` <br> ```Firebase``` | [Tracky](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | Feb 22 - Mar 22 | [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/jwoc_cer.jpg) |
 | Android Development <br>Remote Internship | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rubberfy.jpg" alt="Rait" width="30" height="30"/> | [Rubberfy](https://rubberfy.com/) | ```Android``` ```Java``` <br> ```Firebase``` | Remote | Nov 21 - Dec 21 | [Experience Letter](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/rubberfy_cer.jpg) |
 
