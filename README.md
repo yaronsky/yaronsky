@@ -13,21 +13,6 @@
 
 ⚡ Favourite Anime Naruto 🐱‍👤
 
-<br>
-<h2 align="center">Experience 💻 </h2>
-
-| | | <h3>Organization</h3> | <h3>TechStack</h3> | <h3>Project</h3> | <h3>TimeLine</h3> |  |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Top Performer | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rait.jpg" alt="Rait" width="30" height="30"/> | [Coding Ninjas] | ```C++``` | [Excellence Certificate ](https://github.com/maityamit/Sleepometer-Android-App) | Aug 22 | |
-| Clear Qualification Round | [Google Codejam] | ```Android``` ```Java``` <br> ```Firebase``` ```YAML``` | [9 Pr's Merged](https://github.com/maityamit/maityamit/tree/main/Open%20Source/2022/GSSoC) | Mar 22 - May 22| [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/gssoc'22_cert.png) |
-| Project Mentor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/jwoc.jpg" alt="Rait" width="30" height="30"/>  | [JGEC Winter of Code](https://jwoc.tech/) | ```Android``` ```Java``` <br> ```Firebase``` | [Tracky](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | Feb 22 - Mar 22 | [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/jwoc_cer.jpg) |
-| Android Development <br>Remote Internship | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rubberfy.jpg" alt="Rait" width="30" height="30"/> | [Rubberfy](https://rubberfy.com/) | ```Android``` ```Java``` <br> ```Firebase``` | Remote | Nov 21 - Dec 21 | [Experience Letter](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/rubberfy_cer.jpg) |
-
-
-
-
-
-<br>
 
 
 <h3 align="left">⭐ Programming Languages Working💬</h3>
@@ -37,10 +22,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
 
 <h3 align="left">⭐ Development Side Working 💻</h3>
-
-|<h3 align="center">Mobile App Development 📱</h3>| <h3 align="center">Web Development 💻 </h3> |
-|:----------------------------------------:|:-----------------------------------------:|
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/></p> |
 
 <h3 align="left">⭐ Tools ⚙️ </h3>
 
