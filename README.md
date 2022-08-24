@@ -17,9 +17,9 @@
 
 <h3 align="left">⭐ Programming Languages Working💬</h3>
 
-| C | C++ | Java | Dart | JS | Kotlin |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
+| C | C++ | Python |
+|-----------|-----------|-----------|-----------|-----------|-----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> | |
 
 <h3 align="left">⭐ Tools ⚙️ </h3>
 
