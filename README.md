@@ -30,9 +30,9 @@
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
 
-| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | 
-|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://linkedin.com/in/itsamanyadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/its-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/13825516/mr-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/its_aman_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/its_aman_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"></p> |
+| Linkedin | GitHub | Instagram | Twitter | 
+|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/itsamanyadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/its-aman-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>| <p align="center"><a href="https://instagram.com/its_aman_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/its_aman_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"></p> |
    
      
 # Productivity Stats📈:
@@ -54,7 +54,6 @@
 
 <h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
 <h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
-<h4>⌛ DSR Modern School, Noida</h4>
 
 
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
