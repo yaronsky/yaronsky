@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Its Aman Yadav</h1>
-<h3 align="center">Youtuber | Coder | Cyber Security | Sport Person</h3>
+<h3 align="center">Youtuber | Coder | Cyber Security | Sports Person</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 
-🌱 I’m currently learning Data Strucures and Algorithms in C++
+🌱 I’m currently learning DSA in C++ and Full Stack Development
 
 💬 Ask me about Cyber Security, Networking, Data Structures and Content Creation
 
