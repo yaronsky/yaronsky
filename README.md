@@ -45,7 +45,7 @@
 ## 📚 My Education Status
 
 
-<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>⌚ B.Tech (AI/ML) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
 <h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
 
 
